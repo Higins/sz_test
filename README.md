@@ -11,7 +11,9 @@ api/company -- list all
 
 api/company/activity -- list by activity
 
-api/company/save -- save or update, if you get an id then update
+api/company/save -- save
+
+api/company/update -- update
 
 api/company/{id?} -- get company by id/ids
 
